@@ -1,5 +1,5 @@
-# Printers
-My printer designs
+# Old Printer
+My Milled and printed printer from 2016
 
 https://www.v1engineering.com/projects/project-3d-printer/
 
